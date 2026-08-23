@@ -1,4 +1,4 @@
-# 👕 FashionVision-CNN
+# 👕 FashionMNIST-CNN
 
 **FashionMNIST üzerinde PyTorch kullanılarak geliştirilmiş bir Convolutional Neural Network (CNN) görüntü sınıflandırma projesi.**
 
